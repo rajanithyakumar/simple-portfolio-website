@@ -1,0 +1,84 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+body{
+    
+        font-family: "Young Serif", serif;
+}
+
+div{
+    padding:30px;
+}
+
+.section-one{
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+.section-one__contact{
+    color:white;
+    background-color: hsl(21, 95%, 50%);
+    text-decoration: none;
+    padding-left:10px;
+    padding-right:10px;
+    margin-top: 10px;
+    
+}
+.section-one__name{
+ font-size: 50px;
+}
+.section-one__role{
+    font-size:30px;
+}
+
+.section-one,two, .section-three,.section-four, .section-five,
+{.section-
+    margin-top: 10px;
+}
+.section-two__desc{
+    margin-top:20px;
+}
+.section-three__desc{
+    margin-top:20px;
+}
+.section-four__desc{
+    margin-top:20px;
+}
+.section-five{
+    background-color: black;
+    color:white;
+    }
+.section-five__title a{
+    color:skyblue;
+}
+.section-five{
+    color:white;
+}
+.section-three li, .section-four li
+{
+    list-style:none;
+}
+
+.section-three{
+
+    background-color:#fe7517;
+    color:black;
+    display:inline-block;
+    border-radius: 15px;
+    vertical-align: top;
+    height:200px;
+
+
+}
+.section-four{
+    background-color:#6462fD;
+    color:black;
+    display:inline-block;
+    border-radius:15px;
+    vertical-align: top;
+    height:200px;
+
+}
+
